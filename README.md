@@ -28,7 +28,7 @@ Copy the API Key for use with this integration (See [Configuration](#Configurati
 
 ### HACS *(recommended)*
 
-Easy install by default on HACS. More info [here](https://hacs.xyz/).
+Add custom repository to HACS and then install 'Solcast PV Solar'. More info [here](https://hacs.xyz/).
 
 <!--
 or click on:
@@ -188,3 +188,4 @@ Modified from the great works of
 * dannerph/homeassistant-solcast
 * cjtapper/solcast-py
 * home-assistant-libs/forecast_solar
+
